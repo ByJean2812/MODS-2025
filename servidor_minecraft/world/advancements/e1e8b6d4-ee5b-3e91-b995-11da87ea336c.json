@@ -862,5 +862,11 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_log": "2025-08-22 03:35:13 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
