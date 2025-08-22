@@ -12121,3 +12121,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Aug2025 03:56:38.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Aug2025 04:01:38.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 04:01:38.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 04:04:26.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Disconnected
+[22Aug2025 04:04:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[22Aug2025 04:06:38.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 04:06:38.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 04:11:38.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 04:11:38.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
